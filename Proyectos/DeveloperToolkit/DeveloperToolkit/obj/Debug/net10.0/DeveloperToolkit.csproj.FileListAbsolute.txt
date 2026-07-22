@@ -1,0 +1,15 @@
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\bin\Debug\net10.0\DeveloperToolkit.exe
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\bin\Debug\net10.0\DeveloperToolkit.deps.json
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\bin\Debug\net10.0\DeveloperToolkit.runtimeconfig.json
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\bin\Debug\net10.0\DeveloperToolkit.dll
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\bin\Debug\net10.0\DeveloperToolkit.pdb
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\DeveloperToolkit.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\DeveloperToolkit.AssemblyInfoInputs.cache
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\DeveloperToolkit.AssemblyInfo.cs
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\DeveloperToolkit.csproj.CoreCompileInputs.cache
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\DeveloperToolkit.sourcelink.json
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\DeveloperToolkit.dll
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\refint\DeveloperToolkit.dll
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\DeveloperToolkit.pdb
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\DeveloperToolkit.genruntimeconfig.cache
+E:\PROYECTO HORIZONTE\Proyectos\DeveloperToolkit\DeveloperToolkit\obj\Debug\net10.0\ref\DeveloperToolkit.dll
