@@ -27,3 +27,5 @@ Este proyecto documenta mi camino para convertirme en Ingeniero de Software.
 ---
 
 *"La disciplina vence a la motivación."*
+
+Este repositorio representa mi compromiso con mejorar un poco cada día. Aquí documentaré mi crecimiento como desarrollador y los proyectos que construiré durante mi formación profesional.
