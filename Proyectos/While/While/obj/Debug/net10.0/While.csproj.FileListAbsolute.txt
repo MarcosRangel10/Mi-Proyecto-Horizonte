@@ -1,0 +1,15 @@
+E:\PROYECTO HORIZONTE\Proyectos\While\While\bin\Debug\net10.0\While.exe
+E:\PROYECTO HORIZONTE\Proyectos\While\While\bin\Debug\net10.0\While.deps.json
+E:\PROYECTO HORIZONTE\Proyectos\While\While\bin\Debug\net10.0\While.runtimeconfig.json
+E:\PROYECTO HORIZONTE\Proyectos\While\While\bin\Debug\net10.0\While.dll
+E:\PROYECTO HORIZONTE\Proyectos\While\While\bin\Debug\net10.0\While.pdb
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\While.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\While.AssemblyInfoInputs.cache
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\While.AssemblyInfo.cs
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\While.csproj.CoreCompileInputs.cache
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\While.sourcelink.json
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\While.dll
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\refint\While.dll
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\While.pdb
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\While.genruntimeconfig.cache
+E:\PROYECTO HORIZONTE\Proyectos\While\While\obj\Debug\net10.0\ref\While.dll
