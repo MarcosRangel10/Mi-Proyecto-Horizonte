@@ -1,6 +1,6 @@
 ﻿//Programa que imprime los números del 10 al 1 utilizando un bucle while
 int numero = 10;
-// while (numero >=1)
+while (numero >=1)
 {
     Console.WriteLine(numero);
 }

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\PROYECTO HORIZONTE\\Proyectos\\While\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2B5DEB0-6818-4B0B-BBFF-E5DF974C50D6}|While\\While.csproj|e:\\proyecto horizonte\\proyectos\\while\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B5DEB0-6818-4B0B-BBFF-E5DF974C50D6}|While\\While.csproj|solutionrelative:while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DAFA3B7-E74E-EB7F-CAC7-D24F8313FCF4}|While\\While.csproj|e:\\proyecto horizonte\\proyectos\\while\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAFA3B7-E74E-EB7F-CAC7-D24F8313FCF4}|While\\While.csproj|solutionrelative:while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "While\\Program.cs",
               "ToolTip": "E:\\PROYECTO HORIZONTE\\Proyectos\\While\\While\\Program.cs",
               "RelativeToolTip": "While\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-26T23:20:03.673Z",
               "EditorCaption": ""
